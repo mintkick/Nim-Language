@@ -29,9 +29,10 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. Select a difficulty number from the prompt.
+2. Input a number within the range set by the difficulty.
+   - (You can track what values you've guessed with the sequence report.)
+3. Once the answer is guessed, the terminal will report how many guesses you made and the program will end.
 
 ## Development Environment
 
