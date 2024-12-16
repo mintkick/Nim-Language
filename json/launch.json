@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "lldb",
+      "request": "launch",
+      "name": "Nim: Debug Current File",
+      "preLaunchTask": "Build and Run",
+      "program": "${workspaceFolder}/bin/${fileBasenameNoExtension}",
+      "args": [],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
